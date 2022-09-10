@@ -11,8 +11,12 @@
     color: white;
 }
 
-#canvas_parent
+#footer
 {
-    border: 2px;
-    color: white;
+    background-color: grey;
+    margin: 0px;
+    font-size: 15px;
+    line-height: 2;
+    font-weight: bold;
+    
 }
